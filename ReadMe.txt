@@ -1,7 +1,6 @@
 TexLinter is developed by Ibrahim Abdulrahman.
 
-how to start TexLinter. 
-start the program by typing: python ./texlinter <name of file>
+start TexLinter by typing in terminal: python ./TexLinter <name of file>
 
 Rules are wrriten in Rules.json
 NOTE!!! do not change names of variables, change only the values according to following instructions:
@@ -19,3 +18,4 @@ NOTE!!!
 - Make sure to input right file name. 
 
 The formatted file is placed in same folder of orginal file. 
+
