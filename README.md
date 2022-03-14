@@ -1,7 +1,7 @@
 # TexLinter
 TexLinter is developed by Ibrahim Abdulrahman.
 
-how to start TexLinter. 
+how to start TexLinter?
 start the program by typing: python ./texlinter <name of file>
 
 Rules are wrriten in Rules.json
